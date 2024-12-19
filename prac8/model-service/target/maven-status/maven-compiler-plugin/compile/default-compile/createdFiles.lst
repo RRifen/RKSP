@@ -1,0 +1,9 @@
+modelservice/dto/ModelGetDto.class
+modelservice/client/MessageDto.class
+modelservice/controller/ModelController.class
+modelservice/dto/ModelPostDto.class
+modelservice/entity/Model.class
+modelservice/client/MessagesClient.class
+modelservice/service/ModelService.class
+modelservice/repository/ModelRepository.class
+modelservice/ModelServiceApplication.class

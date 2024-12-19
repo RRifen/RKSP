@@ -1,0 +1,7 @@
+userservice/service/UserService.class
+userservice/config/SecurityConfig.class
+userservice/repository/UserRepository.class
+userservice/entity/User.class
+userservice/service/UniqueStringGenerator.class
+userservice/controller/HomeController.class
+userservice/UserServiceApplication.class

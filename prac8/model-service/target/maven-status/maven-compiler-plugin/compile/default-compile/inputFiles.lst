@@ -1,0 +1,9 @@
+/Users/a.bazhenov/Edu/course4/4_1/РКСП/prac8/model-service/src/main/java/modelservice/entity/Model.java
+/Users/a.bazhenov/Edu/course4/4_1/РКСП/prac8/model-service/src/main/java/modelservice/service/ModelService.java
+/Users/a.bazhenov/Edu/course4/4_1/РКСП/prac8/model-service/src/main/java/modelservice/controller/ModelController.java
+/Users/a.bazhenov/Edu/course4/4_1/РКСП/prac8/model-service/src/main/java/modelservice/dto/ModelPostDto.java
+/Users/a.bazhenov/Edu/course4/4_1/РКСП/prac8/model-service/src/main/java/modelservice/client/MessageDto.java
+/Users/a.bazhenov/Edu/course4/4_1/РКСП/prac8/model-service/src/main/java/modelservice/repository/ModelRepository.java
+/Users/a.bazhenov/Edu/course4/4_1/РКСП/prac8/model-service/src/main/java/modelservice/ModelServiceApplication.java
+/Users/a.bazhenov/Edu/course4/4_1/РКСП/prac8/model-service/src/main/java/modelservice/client/MessagesClient.java
+/Users/a.bazhenov/Edu/course4/4_1/РКСП/prac8/model-service/src/main/java/modelservice/dto/ModelGetDto.java

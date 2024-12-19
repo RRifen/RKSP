@@ -1,0 +1,6 @@
+ru/rksp/rsocket/server/MessageController.class
+ru/rksp/rsocket/server/RsocketServerApplication.class
+ru/rksp/rsocket/server/DbSchemaInitOnStartup.class
+ru/rksp/rsocket/server/CustomException.class
+ru/rksp/rsocket/server/Message.class
+ru/rksp/rsocket/server/MessageRepository.class

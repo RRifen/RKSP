@@ -1,0 +1,5 @@
+messageservice/entity/Message.class
+messageservice/controller/MessageController.class
+messageservice/service/MessageService.class
+messageservice/MessageServiceApplication.class
+messageservice/repository/MessageRepository.class
